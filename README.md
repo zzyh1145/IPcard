@@ -1,4 +1,5 @@
 # IP签名档源码
+本Fork仓库用于添加多种签名档卡片
 以下为原作者[xhboke](https://github.com/xhboke)的README.md
 ****
 <h2>说在前面</h2>
