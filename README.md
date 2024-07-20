@@ -20,4 +20,3 @@ $region = $data['data']['region']; <br>
 $city = $data['data']['city'];
 <h3>感谢<h3>
 https://github.com/ua-parser/uap-php
-
