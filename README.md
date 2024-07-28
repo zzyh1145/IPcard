@@ -1,7 +1,10 @@
 # IP签名档源码
-本Fork仓库用于添加多种签名档卡片
+本Fork仓库用于添加多种签名档卡片模板,模板在[这里](https://github.com/zzyh1145/IPcard/tree/master/template)
+
+
 以下为原作者[xhboke](https://github.com/xhboke)的README.md
-****
+
+
 <h2>说在前面</h2>
 自从论坛IP签名档开放以来，访问量达到1806287，一百八十多万，由于证书过期和懒得维护。今特开源。
 <h2>演示效果</h2>
