@@ -1,5 +1,5 @@
 # IP签名档源码
-本Fork仓库用于添加多种签名档卡片模板,模板在[这里](https://github.com/zzyh1145/IPcard/tree/master/template)
+本For仓库用于添加多种签名档卡片模板,模板在[这里](https://github.com/zzyh1145/IPcard/tree/master/template)
 
 
 以下为原作者[xhboke](https://github.com/xhboke)的README.md
